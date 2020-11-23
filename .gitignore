@@ -13,6 +13,10 @@
 # CMake
 cmake-build-*/
 
+.idea
+.idea/**
+.idea/misc.xml
+
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
@@ -118,6 +122,6 @@ gradle-app.setting
 **/build/
 
 ### Dockerfile
-Dockerfile
+#Dockerfile
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java,gradle
